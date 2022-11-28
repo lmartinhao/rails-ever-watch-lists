@@ -13,4 +13,9 @@
 
 .nav-link {
   color: white;
+
+  &:hover {
+    font-weight: bold;
+    color: white;
+  }
 }
